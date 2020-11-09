@@ -11,13 +11,13 @@ import os
 # 'Hours:Minutes:Seconds' that you'll 
 # use to set the alarm. 
 #Set_Alarm = raw_input("Set the website alarm as H:M:S:") 
-Set_Alarm = "04:35:15"
+Set_Alarm = "06:30:00"
 # Second Input: It is the URL that you want 
 # to open on the given time. 
 #url = raw_input("Enter the website you want to open:") 
 
 dirname = os.path.dirname(os.path.abspath(inspect.stack()[0][1]))
-filename = os.path.join(dirname, '.\CountdownTimer\index.html')
+filename = os.path.join(dirname, '.\index.html')
 url = filename
 
 # This is the actual time that we will use to print. 
