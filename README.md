@@ -11,10 +11,10 @@ In the future, I will automate the creation of graphs in the excel spreadsheet u
 ## 2nd Project - Countdown Timer
 The countdown timer consist of a css, javascript, html and a python file. The python file is used for automating the opening of the html file and the javascript consist of the code used for counting down the time for each period. 
 The CSS file is used for formatting text in the html file. 
-File Names:
-Counter.css
-TimerCode.js
-index.html
+## File Names:
+Counter.css, 
+TimerCode.js, 
+index.html, 
 main.py - Python v3.7 or higher
 
 ### Additional features to be added
