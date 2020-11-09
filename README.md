@@ -15,7 +15,7 @@ File Names:
 Counter.css
 TimerCode.js
 index.html
-main.py
+main.py - Python v3.7 or higher
 
 ### Additional features to be added
 Creating the entire countdown timer in either JAVA or Python as an executable.
