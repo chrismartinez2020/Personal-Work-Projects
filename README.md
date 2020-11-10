@@ -20,3 +20,9 @@ main.py - Python v3.7 or higher
 ### Additional features to be added
 Creating the entire countdown timer in either JAVA or Python as an executable.
 Also, allowing the user to set the times for each period for the packing department.
+
+
+## 3rd Project - Photoshop Resume
+Created a photoshop resume in conjunction to my standard resume so it would be search friendly. Wanted something that pops out and shows not only my creativity but also my experience. 
+### File Name: 
+Chris_Martinez_Resume_2020.pdf
